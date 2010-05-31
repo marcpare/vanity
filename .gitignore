@@ -1,0 +1,4 @@
+bin/
+deploy/
+deploy_tmp/
+*.pyc
