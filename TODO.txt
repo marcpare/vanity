@@ -1,6 +1,8 @@
 
 * PDF of long-form resume
 * Finish projects and diversions page
+* Compress images to correct size
+* Have fabfile set the permissions correctly
 
 how Hyde works:
 
@@ -10,3 +12,4 @@ how Hyde works:
 
 deployment:
 
+    mpare3@acme.gatech.edu
