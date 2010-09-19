@@ -6,6 +6,8 @@
 
 how Hyde works:
 
+    cd ~/Sites/hyde
+
     python hyde.py -g -s ~/Sites/vanity -k
 
     python hyde.py -w -s ~/Sites/vanity 

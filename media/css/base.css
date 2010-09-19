@@ -19,6 +19,9 @@ li { margin-bottom: 5px;}
 #left ul { list-style: none; }
 #left li { margin-bottom: 5px;}
 
+#now p { border: 1px solid #bfbeb5;}
+#now p { font-size: 0.7em; background: #EEEDE2; padding-top: 5px; padding-right: 5px; padding-bottom: 5px;}
+
 #cv { border: 1px solid #ccc; padding: 20px; font-family: "Georgia", serif; margin-top: 20px;}
 #cv h1, #cv h2, #cv h3, #cv h4 { font-family: "Georgia";}
 #cv-name { text-align: center;}

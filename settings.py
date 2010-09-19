@@ -95,9 +95,9 @@ CONTEXT = {
 }
 
 FILTER = { 
-    'include': (".htaccess",),
     'exclude': (".*","*~")
 }        
+# removed: 'include': (".htaccess")
 
 
 #Processor Configuration 
