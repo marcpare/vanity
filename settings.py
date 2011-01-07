@@ -13,7 +13,7 @@ BACKUPS_DIR = os.path.join(ROOT_PATH, 'backups')
 BACKUP = False
 
 SITE_ROOT = "/"
-SITE_WWW_URL = "http://www.prism.gatech.edu/~mpare3"
+SITE_WWW_URL = "http://www.notwandering.com"
 SITE_NAME = "Marc Pare"
 SITE_AUTHOR = "Marc Pare"
 

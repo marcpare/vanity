@@ -37,3 +37,20 @@ div.imagebox p { text-align: center; margin-top: 10px;}
 .boxarray {}
 .elem { width: 200px; height: 200px; border: 1px solid #eee; float: left; font-size: 26px; font-style: italic; font-family: "Georgia"; }
 .elem p { padding: 5px; line-height: 26px;}
+
+#portfolio p.frame { padding: 3px; padding-right: 0; border: 1px solid #999; margin: 5px; line-height: 0; width: 203px;}
+#portfolio p.explain { padding: 3px; font-size: 11px; padding-right: 15px;}
+#portfolio h4 { padding: 3px; margin-bottom: 5px;}
+#portfolio td img { margin: 0; padding: 0; border: 0;}
+#portfolio td { margin: 0; padding: 0; vertical-align: top;}
+#portfolio a { color: black; text-decoration: none;}
+#portfolio a:hover { color: black; text-decoration: underline;}
+.lowkey {color: #999;}
+
+.picture-bar { width: 450px; float:left; }
+.picture-bar img { border: 0; display: inline-block; padding: 2px;}
+.picture-bar a { display: inline-block; padding: 2px;}
+.picture-bar a:hover { border: 2px solid #999; padding: 0;}
+.right-bar { margin-left: 470px;}
+.right-bar h4 { font-variant: small-caps;}
+.right-bar p { font-size: 11px;}
