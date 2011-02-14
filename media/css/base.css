@@ -54,3 +54,7 @@ div.imagebox p { text-align: center; margin-top: 10px;}
 .right-bar { margin-left: 470px;}
 .right-bar h4 { font-variant: small-caps;}
 .right-bar p { font-size: 11px;}
+
+fieldset { padding: 20px; }
+input { font-size: 16px; }
+#mce-EMAIL { margin-bottom: 20px;}
