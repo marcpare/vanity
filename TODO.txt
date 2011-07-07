@@ -14,4 +14,3 @@ how Hyde works:
 
 deployment:
 
-    mpare3@acme.gatech.edu
