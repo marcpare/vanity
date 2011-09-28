@@ -1,0 +1,34 @@
+{% extends "skeleton/_body.html" %}
+{%hyde
+    title: "ray trace : Marc Pare"
+    created: 2010-05-30
+    listing: True
+%}
+
+{% block content_body %}
+
+<h1>// portfolio / ray trace</h1>
+
+<div class="picture-bar">    
+    <img src="media/images/portfolio/raytrace-9.png" />
+    <img src="media/images/portfolio/raytrace-8.png" />
+    <img src="media/images/portfolio/raytrace-7.png" />
+    <img src="media/images/portfolio/raytrace-6.png" />
+    <img src="media/images/portfolio/raytrace-5.png" />
+    <img src="media/images/portfolio/raytrace-4.png" />
+    <img src="media/images/portfolio/raytrace-3.png" />
+    <img src="media/images/portfolio/raytrace-2.png" />
+</div>
+
+<div class="right-bar">
+    <h2>ray trace</h2>
+    <p>a ray tracing engine built from the ground up in MATLAB. Mostly an experiment to see how far I could get.</p>
+    
+    <h4>story</h4>
+    
+    <p>Ray tracing&mdash;a technique for 3D rendering based on how a beam of light travels&mdash;turns out to be reasonably straightforward to implement. Count off each pixel in an image, generate a beam of light from an imaginary eye, and see what happens as it shoots through a scene.</p>
+    
+    <p>I was learning MATLAB and linear algebra at the time. This project turned out to be a great testbed for both. To turn a scene, multiply by a rotation matrix. MATLAB is well suited for this sort of calculation.</p>
+</div>
+
+{% endblock %}
