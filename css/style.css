@@ -49,7 +49,7 @@ hr {
     padding-right: 20px;
 }
 
-h2{margin-top:20px;}
+h2{margin-top:20px; margin-bottom: 10px;}
 p, ul, hr {margin-bottom:10px;}
 p{line-height:1.6em;}
 li{margin-bottom:5px;}
@@ -106,5 +106,6 @@ div.imagebox p{text-align:center;margin-top:10px;}
 .right-bar{margin-left:470px;}
 .right-bar h4{font-variant:small-caps;}
 .right-bar p{font-size:11px;}
+
 fieldset{padding:20px; margin-bottom: 30px;}
 input{font-size:16px;}#mce-EMAIL{margin-bottom:20px;}

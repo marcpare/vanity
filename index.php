@@ -3,7 +3,7 @@ include("header.php");
 ?>
 
 <p>
-<img src="img/header.jpg" width="600px" />
+<img src="img/header.jpg" width="600px" height="400px" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Currently, I am a clean energy entrepreneur working on a 1,000 year old problem 
 </ul>
 
 <p>
-Some of the most interesting things about me online include: the <a href="letters.html">letter I wrote before leaving for Vietnam</a>, the tumblr documenting our <a href="http://smallredtile.tumblr.com">cook stove design process</a>, a <a href="http://www.gatech.edu/president/lettersbulletins/july2009.html">mention by the President of Georgia Tech</a>, and <a href="http://www.slideshare.net/sirgawain33/state-of-the-art-in-rice-husk-gasification">my talk at the ETHOS conference</a> about rice husk gasification.
+Some of the most interesting things about me online include: the <a href="letters.php">letter I wrote before leaving for Vietnam</a>, the tumblr documenting our <a href="http://smallredtile.tumblr.com">cook stove design process</a>, a <a href="http://www.gatech.edu/president/lettersbulletins/july2009.html">mention by the President of Georgia Tech</a>, and <a href="http://www.slideshare.net/sirgawain33/state-of-the-art-in-rice-husk-gasification">my talk at the ETHOS conference</a> about rice husk gasification.
 </p>
 
 
