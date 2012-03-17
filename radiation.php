@@ -19,7 +19,7 @@ include 'header.php'
 
 <p><img src="img/page_white_acrobat.png" /> <a href="pdf/Radiation_Analysis_for_Cookstove.pdf">A short article explaining the theory and presenting the results</a></p>
 
-<p><img src="img/page_white_acrobat.png" /> <a href="Radiation_Analysis_Final.xlsx">The accompanying spreadsheet</a></p>
+<p><img src="img/page_white_acrobat.png" /> <a href="pdf/Radiation_Analysis_Final.xlsx">The accompanying spreadsheet</a></p>
 
 
 <?php
