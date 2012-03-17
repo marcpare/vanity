@@ -17,9 +17,9 @@ include 'header.php'
 
 <p>An accompanying spreadsheet includes some additional calculatons (view factor, energy to boil water) and some comments from Crispin during the development of the analysis.</p>
 
-<p><img src="img/page_white_acrobat.png" /> <a href="radiation.pdf">A short article explaining the theory and presenting the results</a></p>
+<p><img src="img/page_white_acrobat.png" /> <a href="pdf/Radiation_Analysis_for_Cookstove.pdf">A short article explaining the theory and presenting the results</a></p>
 
-<p><img src="img/page_white_acrobat.png" /> <a href="radiation.xls">The accompanying spreadsheet</a></p>
+<p><img src="img/page_white_acrobat.png" /> <a href="Radiation_Analysis_Final.xls">The accompanying spreadsheet</a></p>
 
 
 <?php
