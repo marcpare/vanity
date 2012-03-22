@@ -11,7 +11,7 @@ I am part of a growing community of design engineers that see technology's futur
 </p>
 
 <p>
-Currently, I am a clean energy entrepreneur working on a 1,000 year old problem in Southeast Asian traditional brick-making. In the developing world, there is no such thing as purely a "technology problem", which means that I employ the tools of ethnography, social enterprise, and IT to understand and affect the sociotechnical processes that result in a red clay brick. I am fascinated by the potential of market forces to solve social and environmental problems as well as the possibilities of appropriate technology. 
+Currently, I am a clean energy entrepreneur working on a 2,000 year old problem in Southeast Asian traditional brick-making. In the developing world, there is no such thing as purely a "technology problem", which means that I employ the tools of ethnography, social enterprise, and IT to understand and affect the sociotechnical processes that result in a red clay brick. I am fascinated by the potential of market forces to solve social and environmental problems as well as the possibilities of appropriate technology. 
 </p>
 
 <hr />
