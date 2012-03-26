@@ -19,7 +19,7 @@ Currently, I am a clean energy entrepreneur working on a 2,000 year old problem 
 <p>You can find plenty about me on the rest of the pages of this site or on Google. But here is a snapshot of my past experience if you don't have much time:</p>
 
 <ul>
-<li>B.S. Mechanical Engineering, Georgia Institute of Technology</li>
+<li>B.S. Mechanical Engineering, Georgia Institute of Technology &mdash; Highest Honors, International Plan</li>
 <li>3rd overall Senior Design project for novel improved cook stove design</li>
 <li>Microsoft Imagine Cup World Champion, 2009</li>
 <li>International recognition for competitive algorithm programming  [ACM ICPC World Finalist, 2008]</li>
