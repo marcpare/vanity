@@ -1,0 +1,111 @@
+*{margin:0;padding:0;}
+
+body {
+    font-size:11px;
+    font-family:"Georgia",serif;
+}
+
+#content, #header , #footer {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#header h1 {
+   font-size: 24px;
+   font-weight: bold;
+   float: left;
+}
+
+#header h1 a {
+    text-decoration: none;
+}
+
+#header h1 a:hover {
+    text-decoration: underline;
+}
+
+#header h2 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: right;
+}
+
+hr {
+    color: black;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#footer p {
+    margin-bottom: 5px;
+}
+
+#footer ul {
+    list-style: none;
+}
+
+#footer table td {
+    vertical-align: top;
+    padding-right: 20px;
+}
+
+h2{margin-top:20px; margin-bottom: 10px;}
+p, ul, hr {margin-bottom:10px;}
+p{line-height:1.6em;}
+li{margin-bottom:5px;}
+
+ul { margin-left: 15px; }
+
+a { 
+    color: black; 
+    font-weight: bold; 
+    text-decoration: none; 
+}
+a:hover { 
+    font-weight: bold; 
+    text-decoration: underline;
+}
+
+#content h1 {
+    font-size: 11px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+
+#left{width:200px;float:left;}
+#center{width:700px;float:left;}
+#left{padding-right:50px;text-align:right;}
+#left ul{list-style:none;}
+#left li{margin-bottom:5px;}
+#now p{border:1px solid #bfbeb5;}
+#now p{font-size:.7em;background:#EEEDE2;padding-top:5px;padding-right:5px;padding-bottom:5px;}
+#cv{border:1px solid #ccc;padding:20px;font-family:"Georgia",serif;margin-top:20px;}
+#cv h1,#cv h2,#cv h3,#cv h4{font-family:"Georgia";}
+#cv-name{text-align:center;}
+#cv h3{font-variant:small-caps;border-top:1px solid black;border-bottom:1px solid #ddd;letter-spacing:3px;padding:3px 0;margin-top:20px;margin-bottom:20px;}
+#cv ul{list-style:none;}
+#cv .blockitem{margin-bottom:25px;}
+#cv ul.decorated{list-style:disc;margin-left:30px;}
+#cv .date{font-style:italic;color:#999;font-weight:normal;}
+div.imagebox{border:1px solid #999;padding:20px;padding-bottom:0;text-align:center;margin-bottom:10px;background:#eee;}
+div.imagebox p{text-align:center;margin-top:10px;}
+.elem{width:200px;height:200px;border:1px solid #eee;float:left;font-size:26px;font-style:italic;font-family:"Georgia";}
+.elem p{padding:5px;line-height:26px;}
+#portfolio p.frame{padding:3px;padding-right:0;border:1px solid #999;margin:5px;line-height:0;width:203px;}
+#portfolio p.explain{padding:3px;font-size:11px;padding-right:15px;}
+#portfolio h4{padding:3px;margin-bottom:5px;}
+#portfolio td img{margin:0;padding:0;border:0;}
+#portfolio td{margin:0;padding:0;vertical-align:top;}
+#portfolio a{color:black;text-decoration:none;}
+#portfolio a:hover{color:black;text-decoration:underline;}
+.lowkey{color:#999;}.picture-bar{width:450px;float:left;}
+.picture-bar img{border:0;display:inline-block;padding:2px;}
+.picture-bar a{display:inline-block;padding:2px;}
+.picture-bar a:hover{border:2px solid #999;padding:0;}
+.right-bar{margin-left:470px;}
+.right-bar h4{font-variant:small-caps;}
+.right-bar p{font-size:11px;}
+
+fieldset{padding:20px; margin-bottom: 30px;}
+input{font-size:16px;}#mce-EMAIL{margin-bottom:20px;}

@@ -1,0 +1,79 @@
+{% extends "skeleton/_body.html" %}
+{%hyde
+    title: "Portfolio : Marc Pare"
+    created: 2010-05-30
+    listing: True
+%}
+
+{% block content_body %}
+
+<h1>// portfolio</h1>
+
+<p>A selection of some of my work. View it as a struggle to resolve a passion for computing and the desire to impact the physical environment.</p>
+
+<table id="portfolio">
+    <tr>
+        <td>
+            <p class="frame"><a href="smallredtile.html"><img src="media/images/portfolio/smallredtile.png" width="200" height="200"></a></p>
+            <h4><a href="smallredtile.html">small red tile</a> &middot; <span class="lowkey">2010</span>  </h4>
+            <p class="explain">
+                Design of an appropriate cooking device for rural Nicaragua to replace traditional open fires. Result was an invention that burns rice husk like nothing else in the world. 
+            </p>
+        </td>
+        <td>
+            <p class="frame"><a href="mdgactors.html"><img src="media/images/portfolio/mdgactors.png" width="200" height="200"></a></p>
+            <h4><a href="mdgactors.html">MDG actors</a> &middot; <span class="lowkey">2009</span> </h4>
+            <p class="explain">
+                A digital narrative that weaves stories of people doing good in the world with ways to find out more about their work. Built with natural language processing and mashed-up APIs.
+            </p>
+        </td>
+        <td>
+            <p class="frame"><a href="http://www.ewb-gt.org"><img src="media/images/portfolio/ewbgt.png" width="200" height="200" /></a></p>
+            <h4><a href="http://www.ewb-gt.org">ewb-gt.org</a> &middot; <span class="lowkey">2010</span>  </h4>
+            <p class="explain">
+                Engineers Without Borders was generous in helping my work with cook stoves, so I donated some design and code to their organization. The site balances information density and shows off their compelling pictures.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p class="frame"><a href="sepchar.html"><img src="media/images/portfolio/sepchar.png" width="200" height="200" /></a></p>
+            <h4><a href="sepchar.html">count char</a> &middot; <span class="lowkey">2010</span>  </h4>
+            <p class="explain">
+                (iPhone + Python) to automate the task of separating burned from unburned char while doing cook stove experiments at the Aprovecho Research Center.
+            </p>
+        </td>
+        <td>
+            <p class="frame"><a href="raytrace.html"><img src="media/images/portfolio/raycast.png" width="200" height="200"></a></p>
+            <h4><a href="raytrace.html">ray trace</a> &middot; <span class="lowkey">2007</span>  </h4>
+            <p class="explain">
+                A ground-up implementation of ray tracing in MATLAB. The programming was easy but the physics were challenging: how does light bounce off of a surface? What about a translucent surface? Or a colored surface?
+            </p>
+        </td>
+        <td>
+            <p class="frame"><a href="http://foo-lab.appspot.com/"><img src="media/images/portfolio/foolab.png" width="200" height="200" /></a></p>
+            <h4><a href="http://foo-lab.appspot.com/">foo-lab</a> &middot; <span class="lowkey">2010</span>  </h4>
+            <p class="explain">
+                Some friends and I were curious about what our circle's global footprint would look like. I used the Wufoo form API to automatically turn survey results into a map of where our friends had been.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p class="frame"><a href="roughdraft.html"><img src="media/images/portfolio/cmf.png" width="200" height="200" /></a></p>
+            <h4><a href="roughdraft.html">rough draft</a> &middot; <span class="lowkey">2010</span>  </h4>
+            <p class="explain">
+                Made by a team of engineers that lets out their creative frustration every year at Campus Movie Fest. We've been shown at the Georgia Tech finale three times. Rough Draft was our best work.
+            </p>
+        </td>
+        <td>
+            <p class="frame"><a href="http://www.prism.gatech.edu/~mpare3/psych/"><img src="media/images/portfolio/guilford.png" width="200" height="200" /></a></p>
+            <h4><a href="http://www.prism.gatech.edu/~mpare3/psych/">guilford's hell</a> &middot; <span class="lowkey">2008</span>  </h4>
+            <p class="explain">
+                Interactive fiction games provide a solid basis for meta-creative experiments. As a writer/programmer, you're looking to come up with an experience that is compelling and fun for users. That means crafting an interesting world with mind-engaging puzzles.
+            </p>
+        </td>
+    </tr>
+</table>
+
+{% endblock %}

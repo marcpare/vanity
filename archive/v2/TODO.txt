@@ -1,0 +1,17 @@
+
+* PDF of long-form resume
+* Finish projects and diversions page
+* Compress images to correct size
+* Have fabfile set the permissions correctly
+
+how Hyde works:
+
+    cd ~/Sites/hyde
+
+    python hyde.py -g -s ~/Sites/vanity -k
+
+    python hyde.py -w -s ~/Sites/vanity 
+
+deployment:
+
+(nothing configured yet)
