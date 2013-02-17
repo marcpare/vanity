@@ -1,0 +1,121 @@
+Notes to my past and future self
+================================
+
+
+
+
+***
+
+_The Craftsman_
+
+> Practicing has its own structure and an inherent interest.
+
+> Practice sessions can be made interesting through creating an internal rhythm for them.
+
+> She is not counting how often; she wants to repeat breathing down the blowpipe, holding and turning it in her hands. Her eye, however, sets the tempo. When the two elements of rhythm combine in practicing, a person can stay alert for long periods, and improve.
+
+> Doing something over and over is stimulating when organized as looking ahead. The substance of the routine may change, metamorphose, improve, but the emotional payoff is one's experience of doing it again.
+
+I remember setting the goal to do three spins of my pen around my thumb in a row back in high school. It took a month or so. I would get one. Then two. Then miss. It was so thrilling to be attempting the "third one in a row".  Writing engineering documentation in Ho Chi Minh City had the same feeling. 
+
+In order to concentrate on writing for long hours, I had to focus on the process of writing, not the result of finishing. The process of writing engineering documentation isn't so hard. You try to write a sentence, realize you haven't set the foundation for what you want to say, so you try to write that sentence instead. Eventually, you have broken down the problem into its elemental components (usually calculations). You start there, then build your way back up to that original thought. Sometimes you won't actually get back there because the analysis has turned out differently than you expected. That's the best feeling; you've discovered something.
+
+And you do this again and again and again. The first time is kind of awkward; you don't know where to look for the formula. The best is when you've got five books open on the table, pulling some little detail from each, and arranging the result into a fine calculation. You can do this for hours – with almost no effort – as your skills refine, your knowledge broadens.
+
+If you are anxious about finishing, you expend a lot of energy in the process. If you are unconcerned with finishing, enjoying the rhythm of the engineering, you can penetrate very complex problems without feeling much effort.
+
+***
+
+> "I am on the whole very glad this thing is winding up, –not that I have not enjoyed parts of it intensely and regard it as one of the best spent portions of my life; but enough is as good as a feast; I thoroughly hate collecting, and long to be back to books, studies &c after this elementary existence... The idea of the people swarming about as they do at home, killing themselves with thinking and things that have no connexion with their merely external circumstances, studying themselves into fevers, going mad about religion, philosophy, love and sich, breathing perpetual heated gas & excitement, turning night into day, seems almost incredible and imaginary"
+
+[William James in a letter to his mother on returning from collecting in Brazil. _The Metaphysical Club_]
+
+Every day I spent back in US cities -- Berkeley, Seattle, Atlanta -- I would be offered jobs, ideas for projects, connections to collaborators. The ideas come fast and furious and well-thought-through.
+
+Not so much in a developing country. There are interesting people. But not so many. And all a bit slower in thought and execution. The difference isn't a matter of degree; it's an order (or many) of magnitude. 
+
+This is the palatable difference between working in a developing vs. developed country. 
+
+***
+
+piston rings:
+
+After six years of work as a car mechanic in Tokyo, Soichiro Honda returned home to Hamamatsu, Shizuoka, Japan to start his own auto repair business. Nine years later, he founded a company to produce piston rings for Toyota. He lost the contract due to poor quality products. He toured the country to understand quality control in Toyota factories and tried (but failed) to stick with engineering school. He eventually succeeded at supplying piston rings to Toyota.
+
+Honda was a virtuoso engineer but not a huge success in business. It was not until partnering with Takeo Fujisawa that his work turned into the billion-dollar company we know today. Fujisawa pushed Honda to develop a motorcycle for the "everyman" even though Honda was reluctant at first. It became the best selling wheeled vehicle ever: the Honda Super Cub.
+
+Learn to recognize your piston rings: the tasks that you could possibly accomplish but that you are not quite suited for. Find the people to support you, to challenge you at the deepest levels of your identity. It's the difference between a struggling, stressful existence and a stunning explosion of creativity and industry.
+
+***
+
+When learning a new sport: play with old ladies.
+
+Old women don't have a lot of mobility or power, so they have to have good technique. They're witty and sociable. They'll try to set you up with their grand-daughters.
+
+When you're just starting, the fundamentals are what you're looking for. You can add optimization and aggression and competitiveness later (if that's your manner of sport).
+
+It will keep your ego in check as you get embarrassed by 70 year olds. You'll feel a light and not-so-serious feeling toward the sport. So you'll be free to experiment and improve. That's where the sick between-the-legs shots come from months down the line.
+
+And what happens when you outgrow the evening badminton games at the park? You'll have a group of friends you wouldn't have made otherwise. Old women hold a certain powerful type of social influence, and they will have been impressed by your open mind to training. Maybe you'll get a call a year later from their CEO son that just so happens to be looking for someone like you. 
+
+***
+
+You should often approach work like this: "if no one were asking me to do anything, what do I think would be best to work on next?"
+
+This is because you have a different thought process than other people. You have honed your process over the years, and it is powerful. Not to say that it is the only process, just that it is one of the most powerful ways that you have to create valuable things.
+
+Then, you can present your results and steer collaboration instead of just reacting. When you just react, you never quite feel good, right? But when you have a vision of a few steps down the line, you can blow peoples' minds.
+
+For example, bringing engineering process to stove development. It's not obvious to non-engineers how this frame of mind works. But it does. And it does very reliably. If you only responded to their questions, you would never get access to the full power of systematic analysis and experiment. (careful, of course, to not ostracize your collaborators by ignoring the power of their process).
+
+***
+
+with your engineering think less about optimization and more about conversation
+
+it's more useful to characterize the behavior of a range of design choices than to say you've chosen the single best one. this is because it's difficult to know all of the constraints (financial, social, political, other technical constraints). You want to turn the technical constraints into a form that can participate in a conversation with other forms of constraint. Then the power of socializing them will come to bear. 
+
+***
+
+Impressions from a week in the US after 2 years in rural Vietnam:
+
+* I was afraid I would have a hard time communicating, that I would have lost social skills from lack of practice. Instead, I seem to be better at communication. Better at simplifying ideas, presenting them in a convincing way. It's like communicating with people who's second language was English was good training.
+
+* Awash in symbols. Beyonce on television, TVs in the airport, screens on the back of airplane seats, car commercials before car commercials. They draw me in, appeal to a superficial attraction, but also feel empty. Annoy me, too. Are the symbols less real than...reality? What is that? 
+
+* Writing letters each week to Mom and Dad has put many ideas at the tip of tongue. Because I expressed them instead of letting them fade and disappear. The picture of me eating bugs led to conversation tonight at dinner. We wouldn't have talked about that otherwise.
+
+***
+
+When you're "in the field", think mostly about describing as accurately and comprehensively as possible what is going on. Imagine someone else looking at your notes and trying to figure out what's going on. If you have questions, consider them quickly and note them for later.
+
+You'll find that the notes are never detailed enough. And you'll find the questions are a rich source of inspiration later. There's no rush to answer all of them at once – a good question will trigger hours (years!) of investigation.
+
+See, you can only hold so many things in your head at once. Good notes free you from the task of remembering the observation. The knowledge accumulates. 
+
+This is fun, by the way. Think about the thickness of the lines in your diagram. Or the structure of your mathematics. Or whether something would be better described in words or pictures. Or how much you enjoy writing nines like french people: with a foot like the letter "g".
+
+***
+
+How to invent:
+
+Listen for "it doesn't work" followed up by a weak explanation. This might mean "it doesn't work [for the few configurations I tried, and I didn't try any more because I don't know much about the domain]"
+
+In your own head, try to predict as exactly as possible what will happen when you build something. Do the calculations if you think it will help. Then, does your observation match the prediction? This will reveal the tender parts of your understanding of the theory, and that's where the magic happens: unexpected vortices, surprising pressure balances, and stunning flow instabilities.
+
+***
+
+What's not impossible?
+
+Elon Musk employs *reduction to fundamentals*. One example: what are the fundamental components of batteries? What are the cost of those elements on the open market? How does that compare to the cost of batteries now? (just the raw materials are much cheaper) Therefore, the economics of batteries will change over time (e.g. as battery companies move along the experience curve).
+
+Feynman employed *reduction to fundamentals* to show the maximum possible power of a computer.
+
+***
+
+If you do too little, life seems boring. If you overcommit, you get frustrated at the lack of progress. There's a balance point where you seem to be able to multiply your efforts. For example, focusing hard on engineering calculations for a few weeks allows you to develop the theory foundation that will guide a project for months (years!). 
+
+***
+
+Don't wake up early just because you want to set a high score. Waking up at 5:25am in Ho Chi Minh City lets you see the sun rise. The bike ride is calm with no traffic and cool because the sun isn't up yet. There are more birds out. Then, you have from 6:30 to 8:00am to write without worrying about anyone asking for your attention (since most people are still getting up). Waking up early is easy if there's some reason to do it.
+
+***
