@@ -1,12 +1,58 @@
 Notes to my past and future self
 ================================
 
+***
+
+Great Men
+
+You can read biographies of great men and feel miserable that you aren't great yourself. But if you keep reading, you realize that so many of their successes were quite lucky -- a fortuitous encounter with an investor, a gamble on a good musician. 
+
+There are other layers beyond circumstance, too. Mental and physical health have strong genetic components.
+
+The children of great men don't often become great. It's not really something so concrete that you can "have" it (otherwise, great men could "give" it).
+
+And often the great men are just focal points for the efforts of a great many people. It is easy to write a narrative around a single person; it fits our tendency to tell stories. 
+
+The important part of the stories isn't about how to live. In fact, reading them that way can be counterproductive, since it's the times of failure and stress and crisis that truly tax one's ability to live.
+
+Read these stories as interesting history. Read them to understand the shape of our economy, government, and society. Read them to realize that the criteria for success are so varied and surprising that you don't need to feel an attachment to "doing it the right way."
 
 ***
 
+Intention
 
- 
+If you try to write computer programs without intention, you have to scrap them. What is the point of this program? What is is _really_ out to accomplish? Only when you understand that will the lines of code start to matter.
 
+Similarly, before that understanding, no number of lines of code will result bring you closer to understanding.
+
+
+***
+
+I can think of at least three very different (but very successful) ways for learning foreign language.
+
+That woman that "made money with a dozen languages" -- would read detective novels without a dictionary. The language would just come to her over time. (the books were easy, the languages close to something she already knew)
+
+Or the traditional method: take classes, study the workbooks, make flashcards. You have plenty of peers that managed this way.
+
+Sivers takes the "systematic" approach pretty far, using spaced repetition.
+
+And how did you do it? By signing up for a semester of engineering classes taught in French. 
+
+The interesting thing about language is that you don't necessary need a system to remember it. If you learn it in the right way, it just sticks in your brain, easily accessible when you need it.
+
+***
+
+Unfolding – this feeling of knowing the approach and realizing that as you apply it knowledge will unfold. For example, appreciating the idea of structure in natural objects, how to draw (by observing structure), and the subsequent unfolding of the structure of nature in your mind.
+
+***
+
+How to be a good person even though we are terrible at prediction.
+
+As you look closely at any issue, it becomes quite obvious that acting based on predicted results is no better than acting randomly. 
+
+Be careful with people that cling strongly to some "issue". They are probably more interested in the social signaling of being a "issues person" rather than a genuinely good person. 
+
+So, how do you act? One way is to aligning yourself to processes that tend to do good in the long run. Science. Acquisition of knowledge. Giving. Love. 
 
 ***
 
@@ -20,6 +66,18 @@ Does the artist, entrepreneur, or inventor answer to commitment? No, each answer
 
 When you're working with people, always project utmost commitment. But inside yourself realize that it is not a fundamental concept, only one that is useful at the right time.
 
+
+***
+
+Be careful with magic
+
+In fantasy worlds, the wizards have this particular relation to the arcane arts. They are sort of distant from them, not totally in control. They can be controlled by the dark side if they allow themselves to be taken by ego. 
+
+Computing programming is like magic. Its power derives from layers of abstraction, ultimately rearranging mathematical objects which create value for businesses or influence human psychology. 
+
+Programming has this thrill of creation, connection to something mysterious. It's easy to get lost in the practice of it, obsessed with the tool. Be very careful about this. You have seen programmers again and again trapped in the world of the abstract, rearranging symbols obsessively. 
+
+Treat the skill gently, with respect. Not as something you have complete control over. Be a receiver of its power. 
 
 ***
 
@@ -81,7 +139,7 @@ Every day I spent back in US cities -- Berkeley, Seattle, Atlanta -- I would be 
 
 Not so much in a developing country. There are interesting people. But not so many. And all a bit slower in thought and execution. The difference isn't a matter of degree; it's an order (or many) of magnitude. 
 
-This is the palatable difference between working in a developing vs. developed country. 
+That's one of the differences between working in a developing vs. developed country. 
 
 ***
 
