@@ -1,0 +1,16 @@
+Notes on Google Web Designer
+- 
+
+What's it for?
+
+- Google Ads front and center [screenshot]
+
+
+Task: create a Weave Ad
+
+
+Difference between quick animation and advanced
+(what can't you do in Quick mode?)
+
+What's a rectangle VS a div?
+

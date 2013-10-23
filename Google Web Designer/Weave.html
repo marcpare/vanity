@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="generator" content="Google Web Designer 1.0.0.924">
+    <meta name="template" content="Expandable 1.0.5">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+      .gwd-page-container {
+        position: relative;
+        width: 100%;
+        height: 100%;
+      }
+      .gwd-page-content {
+        background-color: transparent;
+        -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        -webkit-transform-style: preserve-3d;
+        position: absolute;
+      }
+      .gwd-page-wrapper {
+        background-color: #FFF;
+        position: absolute;
+        -webkit-transform: translateZ(0);
+      }
+      .banner {
+        width: 300px;
+        height: 250px;
+      }
+      .expanded {
+        width: 480px;
+        height: 250px;
+      }
+      #expand-button {
+        position: absolute;
+        width: 300px;
+        height: 250px;
+        left: 0px;
+        top: 0px;
+      }
+      #close-button {
+          position: absolute;
+          width: 120px;
+          height: 48px;
+          left: 355px;
+          top: 3px;
+          background-image: none;
+          background-color: rgba(153, 153, 153, 0.2);
+      }
+    </style>
+    <script type="text/x-serialization" id="gwd-serialization">
+    {
+      "version": 1,
+      "content": {
+        "type": "rad.ad.RichMedia",
+        "properties": {
+          "environment": "@environment"
+        },
+        "children": [
+          "@bannerPg1",
+          "@expandPg1"
+        ]
+      },
+      "objects": {
+        "environment": {
+          "type": "rad.environment.DoubleClickStudio",
+          "properties": {
+              "isBanner": true
+          }
+        },
+        "bannerPg1": {
+          "type": "rad.ui.Page",
+          "decorates": true,
+          "events": [
+            {
+              "target": "@expandButton",
+              "type": "action",
+              "handler": {
+                "target": "@rad.ad.RichMedia",
+                "method": "goToPage",
+                "parameters": [
+                  "@expandPg1",
+                  "none"
+                ]
+              }
+            }
+          ],
+          "properties": {
+              "width": "300px",
+              "height": "250px"
+          },
+          "children": [
+              "@expandButton"]
+        },
+        "expandPg1": {
+          "type": "rad.ui.Page",
+          "decorates": true,
+          "events": [
+            {
+              "target": "@closeButton",
+              "type": "action",
+              "handler": {
+                "target": "@rad.ad.RichMedia",
+                "method": "goToPage",
+                "parameters": [
+                  "@bannerPg1",
+                  "none"
+                ]
+              }
+            },
+            {
+              "target": "@closeButton",
+              "type": "action",
+              "handler": {
+                "target": "@environment",
+                "method": "reportManualClose",
+                "parameters": []
+              }
+            }
+          ],
+          "properties": {
+            "width": "480px",
+            "height": "250px",
+            "expanded": true
+          },
+          "children": [
+            "@closeButton"
+          ]
+        },
+        "expandButton": {
+          "type": "rad.ui.TapArea",
+          "decorates": true
+        },
+        "closeButton": {
+          "type": "rad.ui.TapArea",
+          "decorates": true,
+          "properties": {
+            "name": "Close Button"
+          }
+        }
+      }
+    }
+    </script>
+  </head>
+  <body class="document-body">
+    <div class="gwd-page-container">
+      <div id="banner-pg1" class="gwd-page-wrapper banner" data-gwd-component-id="bannerPg1">
+        <div class="gwd-page-content banner">
+          <div id="expand-button" data-gwd-component="rad.ui.TapArea" data-gwd-component-id="expandButton"></div>
+        </div>
+      </div>
+      <div id="expand-pg1" class="gwd-page-wrapper expanded" data-gwd-component-id="expandPg1">
+        <div class="gwd-page-content expanded">
+          <div id="close-button" data-gwd-component="rad.ui.TapArea" data-gwd-component-id="closeButton"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
